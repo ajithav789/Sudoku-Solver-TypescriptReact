@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sudoku-Solver-TypescriptReact/static/css/main.e4473d58.css",
+    "main.js": "/Sudoku-Solver-TypescriptReact/static/js/main.8a38b153.js",
+    "index.html": "/Sudoku-Solver-TypescriptReact/index.html",
+    "main.e4473d58.css.map": "/Sudoku-Solver-TypescriptReact/static/css/main.e4473d58.css.map",
+    "main.8a38b153.js.map": "/Sudoku-Solver-TypescriptReact/static/js/main.8a38b153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4473d58.css",
+    "static/js/main.8a38b153.js"
+  ]
+}
